@@ -26,7 +26,6 @@ src="https://img.shields.io/github/followers/winashcs?logo=github&style=for-the-
 
 <a href="http://www.github.com/winashcs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=winashcs&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/winashcs"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=winashcs&bg_color=1c1917&color=ffffff&line=ffffff&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/winashcs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
