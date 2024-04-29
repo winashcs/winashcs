@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Cybersecurity Enthusiast🛡️🌐🔐💻📚
 
-<a href="https://www.github.com/winashcs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/winashcs?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+![GitHub views](https://img.shields.io/github/views/winashcs/?style=flat-square)
 
 ### Skills
 
