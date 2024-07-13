@@ -1,11 +1,11 @@
-![Alt Text](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA4NTUxMjEsIm5iZiI6MTcyMDg1NDgyMSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEzVDA3MTM0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwYjFlYmZkYjhiODJmMGMxOGJhYWMzNDk4YTlhMmFiZDAxNTFjOTBjOWQ4YmUyMWNkMDYxNDhkZTQ4ZDg1YmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YYdmY_i-P2RVjzOxd5Y0P8u0nO4FdbTP8PWr-vIJqtA)
+                                                                      ██╗  ██╗███████╗██╗     ██╗      ██████╗        
+                                                                      ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+                                                                      ███████║█████╗  ██║     ██║     ██║   ██║
+                                                                      ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+                                                                      ██║  ██║███████╗███████╗███████╗╚██████╔╝
+                                                                      ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
 
-===================================================================================================================================
-
-
-🔐💻❤️🧠🔍🛡️
-
-
+![Alt Text]([https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif))
 
 ### Skills
 
