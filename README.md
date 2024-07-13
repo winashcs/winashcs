@@ -31,7 +31,6 @@
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=winashcs&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs,prs,issues,stars&border_radius=10" alt="readme stats" /> 
   <img width="1000" src="https://github-profile-trophy.vercel.app/?username=winashcs&theme=buddhism&title=Commit" />
 </div>
-<br>
 
 <hr/>
 <h6 align="right">
