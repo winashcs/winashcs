@@ -7,7 +7,6 @@
 
 
 🔐💻❤️🧠🔍🛡️
-</h1>
 
 <br>
  
@@ -17,7 +16,7 @@
   </a>
 </div>
 
- <hr/>
+ </h1>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
