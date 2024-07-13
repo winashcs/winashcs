@@ -34,6 +34,6 @@
 <br>
 
 <hr/>
-
-[![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs)
+<h6 align = "right" >
+[![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs) </h6>
 <hr/>
