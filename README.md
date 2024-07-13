@@ -1,6 +1,8 @@
-<a href="http://hits.dwyl.com/winashcs/winashcs" style="float: right;">
-  <img src="https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square" alt="HitCount">
-</a>
+<div style="overflow: hidden;">
+  <a href="http://hits.dwyl.com/winashcs/winashcs" style="float: right;">
+    <img src="https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square" alt="HitCount">
+  </a>
+</div>
 
 
 <h1 align="center">
