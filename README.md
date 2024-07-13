@@ -24,18 +24,12 @@
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡ & 🏆 Trophies 🏆</h2>
 <div align="center">
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=winashcs&count_private=true&theme=react&hide_current_streak=true&border_radius=10" alt="streak stats"/>
   <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" /> 
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=winashcs&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs,prs,issues,stars&border_radius=10" alt="readme stats" /> 
-</div>
-<br>
-
-<hr/>
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<div align="center">
-  <img align ="center" src="https://github-profile-trophy.vercel.app/?username=winashcs&theme=buddhism&title=Commit" />
+  <img width="200" src="https://github-profile-trophy.vercel.app/?username=winashcs&theme=buddhism&title=Commit" />
 </div>
 <br>
 
