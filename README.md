@@ -31,11 +31,6 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=winashcs&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs,prs,issues,stars&border_radius=10" alt="readme stats" /> 
 </div>
 <hr/>
-<h2 align="center"> 🏆 Trophies 🏆 </h2>
-<div align="right" >
-  <img width="540" src="https://github-profile-trophy.vercel.app/?username=winashcs&theme=buddhism&title=Commit,Repositories,Followers&margin-w=15" />
-</div>
-<hr/>
 <h6 align="right">
   
   [![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs) 
