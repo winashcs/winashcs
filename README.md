@@ -35,7 +35,7 @@
 <hr/>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <div align="center">
-  <img src=""https://github-profile-trophy.vercel.app/?username=winashcs&theme=nord&column=7&no-frame=true&no-bg=true&row=1"" />
+  <img src="https://github-profile-trophy.vercel.app/?username=winashcs&theme=nord&column=7&no-frame=true&no-bg=true&row=1" />
 </div>
 <br>
 
