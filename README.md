@@ -19,7 +19,7 @@
 
 
 <hr/> 
-<div align="center">⚒️ Languages-Frameworks-Tools ⚒️</div>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <div align="center"><img src="https://skillicons.dev/icons?i=git,html,css,kali,vscode,github,sqlite" />
     <img src="https://skillicons.dev/icons?i=python,c,mysql" /><br>
 </div>
