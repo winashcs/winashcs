@@ -35,7 +35,7 @@
 <hr/>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commit" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commit"&theme=buddhism />
 </div>
 <br>
 
