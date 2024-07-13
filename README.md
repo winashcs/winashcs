@@ -30,9 +30,11 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" /> 
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=winashcs&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs,prs,issues,stars&border_radius=10" alt="readme stats" /> 
 </div>
+<h2 align="center"> 🏆 Trophies 🏆 </h2>
 <div>
   <img align="right" width="750" src="https://github-profile-trophy.vercel.app/?username=winashcs&theme=buddhism&title=Commit" />
 </div>
+<br>
 <hr/>
 <h6 align="right">
   
