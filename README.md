@@ -35,9 +35,3 @@
 <div>
   <img align="right" width="750" src="https://github-profile-trophy.vercel.app/?username=winashcs&theme=buddhism&title=Commit" />
 </div>
-<br>
-<hr/>
-<h6 align="right">
-  
-  [![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs) 
-</h6>
