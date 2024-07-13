@@ -18,22 +18,28 @@
 
 <hr/> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center"><img src="https://skillicons.dev/icons?i=git,html,css,kali,vscode,github,sqlite" />
-    <img src="https://skillicons.dev/icons?i=python,c,mysql" /><br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,html,css,kali,vscode,github,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql" /><br>
 </div>
 <hr/>
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=winashcs&count_private=true&theme=react&hide_current_streak=true&border_radius=10" alt="streak stats"/>
-   <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" /> 
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" /> 
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=winashcs&count_private=true&show_icons=true&theme=react&rank_icon=github&hide=contribs,prs,issues,stars&border_radius=10" alt="readme stats" /> 
 </div>
 <br>
 
 <hr/>
-<h6 align = "right" >
-  
-[![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs) 
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=winashcs&theme=nord&column=7" />
+</div>
+<br>
+
+<hr/>
+<h6 align="right">
+  [![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs) 
 </h6>
