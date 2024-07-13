@@ -19,16 +19,16 @@
 <hr/> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,kali,vscode,github,sqlite" />
-  <img src="https://skillicons.dev/icons?i=python,c,mysql" /><br>
+  <a href="http://www.github.com/winashcs"><img src="https://skillicons.dev/icons?i=git,html,css,kali,vscode,github,sqlite" /></a>
+  <a href="http://www.github.com/winashcs"><img src="https://skillicons.dev/icons?i=python,c,mysql" /><br></a>
 </div>
 <hr/>
 
 <h2 align="center"> ⚡ Stats ⚡ </h2>
 <div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=winashcs&count_private=true&theme=react&hide_current_streak=true&border_radius=10" alt="streak stats"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&layout=compact&theme=neon" alt="top langs" /> 
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=winashcs&hide=stars,prs,issues,contribs&show_icons=true&theme=neon" /> 
+  <a href="http://www.github.com/winashcs"><img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=winashcs&count_private=true&theme=neon&hide_current_streak=true" alt="streak stats"/></a>
+  <a href="http://www.github.com/winashcs"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&layout=compact&theme=neon" alt="top langs" /> </a>
+  <a href="http://www.github.com/winashcs"><img width="400" src="https://github-readme-stats.vercel.app/api?username=winashcs&hide=stars,prs,issues,contribs&show_icons=true&theme=neon" alt="Rank stats" /> </a>
 </div>
 <hr/>
 <h6 align="right">
