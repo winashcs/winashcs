@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <span style="font-size: 20;">🔐💻❤️🧠🔍🛡️</span>
+  🔐💻❤️🧠🔍🛡️
 </div>
 <br>
 <div align="center">
