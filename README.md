@@ -35,11 +35,12 @@
 <hr/>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=winashcs&theme=nord&column=7" />
+  <img src=""https://github-profile-trophy.vercel.app/?username=winashcs&theme=nord&column=7&no-frame=true&no-bg=true&row=1"" />
 </div>
 <br>
 
 <hr/>
 <h6 align="right">
+  
   [![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs) 
 </h6>
