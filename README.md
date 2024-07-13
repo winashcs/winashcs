@@ -27,7 +27,7 @@
 <h2 align="center"> ⚡ Stats ⚡ </h2>
 <div align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=winashcs&count_private=true&theme=react&hide_current_streak=true&border_radius=10" alt="streak stats"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&layout=donut&theme=neon" alt="top langs" /> 
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&layout=compact&theme=neon" alt="top langs" /> 
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=winashcs&hide=stars,prs,issues,contribs&show_icons=true&theme=neon" /> 
 </div>
 <hr/>
