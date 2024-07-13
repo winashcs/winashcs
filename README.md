@@ -1,9 +1,4 @@
-<div style="overflow: hidden;">
-  <a href="http://hits.dwyl.com/winashcs/winashcs" style="float: right;">
-    <img src="https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square" alt="HitCount">
-  </a>
-</div>
-
+[![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+WORLD;" />
