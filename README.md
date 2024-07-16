@@ -36,6 +36,6 @@
 <hr/>
 <h6 align="right">
   
-  <a href="http://www.github.com/winashcs">[![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs) </a>
+  [![HitCount](https://hits.dwyl.com/winashcs/winashcs.svg?style=flat-square)](http://hits.dwyl.com/winashcs/winashcs)
 </h6>
 
