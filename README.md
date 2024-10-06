@@ -31,6 +31,6 @@
 <div align="center">
   <a href="http://www.github.com/winashcs"><img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=winashcs&count_private=true&theme=neon&hide_current_streak=true" alt="streak stats"/></a>
   <a href="http://www.github.com/winashcs"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashcs&layout=compact&theme=neon" alt="top langs" /> </a>
-  <a href="http://www.github.com/winashcs"><img width="400" src="https://github-readme-stats.vercel.app/api?username=winashcs&hide=stars,prs,issues,contribs&show_icons=true&theme=neon" alt="Rank stats" /> </a>
+  <a href="http://www.github.com/winashcs"><img width="400" src="https://github-readme-stats.vercel.app/api?username=winashcs&hide=stars,issues,contribs&show_icons=true&theme=neon" alt="Rank stats" /> </a>
 </div>
 <hr/>
